@@ -1,0 +1,19 @@
+{
+  "name": "island",
+  "version": "1.0.0",
+  "description": "island",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "require-directory": "^2.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "lodash": "^4.17.11",
+    "mysql2": "^1.6.5"
+  }
+}
